@@ -32,12 +32,22 @@ On the side I run **[IXC Commons](https://raghavarora.com/ixc-commons)**, a buil
 
 ### Also built
 
-[**Hyperproductive**](https://hyperproductive.co) · [**BillKeeper Pro**](https://billkeeper.pro) — bills, organized automatically · [**LearnSomethin**](https://learnsomethin.com) — one new thing in your inbox every morning · [**GitJack**](https://www.gitjack.com) — see what's moving in a repo
+· [**Hyperproductive**](https://hyperproductive.co) - private, invite only productivity app. hit me up for an invite
+· [**BillKeeper Pro**](https://billkeeper.pro) — bills, organized automatically
+· [**LearnSomethin**](https://learnsomethin.com) — one new thing in your inbox every morning
+· [**GitJack**](https://www.gitjack.com) — see what's moving in a repo
 
 ### Speaking
 
 Same subject from different angles: what it takes to stop prompting a model and start running a system.
-Recent: *AI as a Co-Founder* (Startup Jharkhand) · *The Innovator's Address* (Chitkara University) · *Clay in Chandigarh* (Clay Clubs) → [all talks](https://raghavarora.com/talks)
+Recent: 
+
+*AI as a Co-Founder* (Startup Jharkhand)
+
+*The Innovator's Address* (Chitkara University)
+
+*Clay in Chandigarh* (Clay Clubs)
+
 
 ### Stack
 
