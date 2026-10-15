@@ -4,44 +4,50 @@
 </picture>
 
 <p align="center">
-  <a href="https://raghavarora.com"><img src="https://img.shields.io/badge/raghavarora.com-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/raghavaro"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
-  <a href="https://x.com/raghavaro"><img src="https://img.shields.io/badge/@raghavaro-111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/raghavaro.ai"><img src="https://img.shields.io/badge/raghavaro.ai-111?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://raghavarora.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg" />
+  <img alt="raghavarora.com" src="assets/link-site-light.svg" />
+</picture></a> &nbsp;<a href="https://linkedin.com/in/raghavaro"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" />
+  <img alt="LinkedIn" src="assets/link-linkedin-light.svg" />
+</picture></a> &nbsp;<a href="https://x.com/raghavaro"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg" />
+  <img alt="X" src="assets/link-x-light.svg" />
+</picture></a> &nbsp;<a href="https://instagram.com/raghavaro.ai"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg" />
+  <img alt="Instagram" src="assets/link-instagram-light.svg" />
+</picture></a>
 </p>
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-now-dark.svg?v=1" />
+  <img alt="Now" src="assets/eyebrow-now-light.svg?v=1" />
+</picture>
 
-#### ◐ Now
 **[Flashpoint.ai](https://flashpoint.ai)** at Natural Language Labs. I run engineering on professional-grade market research, built AI-native: quantitative, qualitative and behavioral methods in one study you can field in an afternoon instead of weeks.
 
-</td>
-<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-about-dark.svg?v=1" />
+  <img alt="About" src="assets/eyebrow-about-light.svg?v=1" />
+</picture>
 
-#### ◑ About
 A decade of building: I've started companies, been an early engineer helping others scale, and led engineering teams. I'm the person teams bring in when the hard part isn't the code, but knowing what to build and making it feel right.
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-community-dark.svg?v=1" />
+  <img alt="Community" src="assets/eyebrow-community-light.svg?v=1" />
+</picture>
 
-#### ◒ Community
 I run **[IXC Commons](https://raghavarora.com/ixc-commons)**, a builder community in Chandigarh. Small rooms, laptops open, everyone leaves with something that runs.
 
-</td>
-</tr>
-</table>
-
-<br />
-
-### Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/eyebrow-stack-dark.svg?v=1" />
+  <img alt="Stack" src="assets/eyebrow-stack-light.svg?v=1" />
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=4" />
-  <img alt="Stack: Claude, Claude Code, Claude Skills, MCP, x402, Agents, Agent Memory, LLM Pipelines, Tool Use, Prompt Engineering, Evals, RAG, Fine-tuning, Embeddings, Vector Search, Python, TypeScript, JavaScript, Bash, HTML, CSS, React, Next.js, Tailwind, Vite, Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma, AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux, Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg?v=4" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=5" />
+  <img alt="Stack: Claude, Claude Code, Claude Skills, MCP, x402, Agents, Agent Memory, LLM Pipelines, Tool Use, Prompt Engineering, Evals, RAG, Fine-tuning, Embeddings, Vector Search, Python, TypeScript, JavaScript, Bash, HTML, CSS, React, Next.js, Tailwind, Vite, Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma, AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux, Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg?v=5" width="100%" />
 </picture>

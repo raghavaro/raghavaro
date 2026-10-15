@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40" role="img" aria-label="Now">
+<rect x="2" y="15" width="10" height="10" rx="2" fill="#e5501a"/>
+<text x="24" y="25" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="3" fill="#5c5650">01 / NOW</text>
+<line x1="119.6" y1="20" x2="878" y2="20" stroke="#e3dccf" stroke-width="1.5"/>
+</svg>
