@@ -92,6 +92,6 @@ Same subject from different angles: what it takes to stop prompting a model and 
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=3" />
-  <img alt="Stack: Claude, Claude Code, Claude Skills, MCP, x402, Agents, LLM Pipelines, Tool Use, Prompt Engineering, Evals, RAG, Fine-tuning, Embeddings, Vector Search, Python, TypeScript, JavaScript, Bash, HTML, CSS, React, Next.js, Tailwind, Vite, Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma, AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux, Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg?v=3" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=4" />
+  <img alt="Stack: Claude, Claude Code, Claude Skills, MCP, x402, Agents, Agent Memory, LLM Pipelines, Tool Use, Prompt Engineering, Evals, RAG, Fine-tuning, Embeddings, Vector Search, Python, TypeScript, JavaScript, Bash, HTML, CSS, React, Next.js, Tailwind, Vite, Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma, AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux, Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg?v=4" width="100%" />
 </picture>
