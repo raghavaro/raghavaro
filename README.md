@@ -93,5 +93,5 @@ Same subject from different angles: what it takes to stop prompting a model and 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img alt="Stack. Languages: Python, TypeScript, JavaScript, Bash, HTML, CSS. Frontend: React, Next.js, Tailwind, Vite. Backend and data: Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma. Cloud and infra: AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux. Tools: Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg" width="100%" />
+  <img alt="Stack: Claude, Python, TypeScript, JavaScript, Bash, HTML, CSS, React, Next.js, Tailwind, Vite, Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma, AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux, Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg" width="100%" />
 </picture>
