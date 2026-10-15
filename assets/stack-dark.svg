@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Tech stack"><rect width="1200" height="360" rx="16" fill="#0d1117"/>
+<rect x="40" y="55.0" width="10" height="10" rx="2" fill="#ff6a2b"/>
+<text x="62" y="65.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9198a1">LANGUAGES</text>
+<rect x="290" y="44.0" width="80" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="330.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Python</text>
+<rect x="380" y="44.0" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="437.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">TypeScript</text>
+<rect x="504" y="44.0" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="561.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">JavaScript</text>
+<rect x="628" y="44.0" width="62" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="659.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Bash</text>
+<rect x="700" y="44.0" width="62" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="731.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">HTML</text>
+<rect x="772" y="44.0" width="54" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="799.0" y="65.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">CSS</text>
+<line x1="40" y1="90" x2="1160" y2="90" stroke="#21262d" stroke-width="1"/>
+<rect x="40" y="115.0" width="10" height="10" rx="2" fill="#ff6a2b"/>
+<text x="62" y="125.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9198a1">FRONTEND</text>
+<rect x="290" y="104.0" width="71" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="325.5" y="125.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">React</text>
+<rect x="371" y="104.0" width="88" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="415.0" y="125.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Next.js</text>
+<rect x="469" y="104.0" width="97" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="517.5" y="125.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Tailwind</text>
+<rect x="576" y="104.0" width="62" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="607.0" y="125.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Vite</text>
+<line x1="40" y1="150" x2="1160" y2="150" stroke="#21262d" stroke-width="1"/>
+<rect x="40" y="175.0" width="10" height="10" rx="2" fill="#ff6a2b"/>
+<text x="62" y="185.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9198a1">BACKEND &amp; DATA</text>
+<rect x="290" y="164.0" width="88" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="334.0" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Node.js</text>
+<rect x="388" y="164.0" width="88" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="432.0" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">FastAPI</text>
+<rect x="486" y="164.0" width="71" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="521.5" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Flask</text>
+<rect x="567" y="164.0" width="97" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="615.5" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Postgres</text>
+<rect x="674" y="164.0" width="71" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="709.5" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Redis</text>
+<rect x="755" y="164.0" width="88" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="799.0" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">MongoDB</text>
+<rect x="853" y="164.0" width="97" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="901.5" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Supabase</text>
+<rect x="960" y="164.0" width="80" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="1000.0" y="185.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Prisma</text>
+<line x1="40" y1="210" x2="1160" y2="210" stroke="#21262d" stroke-width="1"/>
+<rect x="40" y="235.0" width="10" height="10" rx="2" fill="#ff6a2b"/>
+<text x="62" y="245.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9198a1">CLOUD &amp; INFRA</text>
+<rect x="290" y="224.0" width="54" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="317.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">AWS</text>
+<rect x="354" y="224.0" width="54" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="381.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">GCP</text>
+<rect x="418" y="224.0" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="475.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Cloudflare</text>
+<rect x="542" y="224.0" width="80" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="582.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Vercel</text>
+<rect x="632" y="224.0" width="80" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="672.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Docker</text>
+<rect x="722" y="224.0" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="779.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Kubernetes</text>
+<rect x="846" y="224.0" width="148" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="920.0" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">GitHub Actions</text>
+<rect x="1004" y="224.0" width="71" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="1039.5" y="245.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Linux</text>
+<line x1="40" y1="270" x2="1160" y2="270" stroke="#21262d" stroke-width="1"/>
+<rect x="40" y="295.0" width="10" height="10" rx="2" fill="#ff6a2b"/>
+<text x="62" y="305.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9198a1">TOOLS</text>
+<rect x="290" y="284.0" width="54" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="317.0" y="305.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Git</text>
+<rect x="354" y="284.0" width="80" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="394.0" y="305.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">GitHub</text>
+<rect x="444" y="284.0" width="88" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="488.0" y="305.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">VS Code</text>
+<rect x="542" y="284.0" width="97" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="590.5" y="305.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Obsidian</text>
+<rect x="649" y="284.0" width="71" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="684.5" y="305.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#f0f6fc">Figma</text>
+</svg>

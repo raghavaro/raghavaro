@@ -91,24 +91,7 @@ Same subject from different angles: what it takes to stop prompting a model and 
 
 ### Stack
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,bash,html,css" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" /></td></tr>
-<tr><td><b>Backend & data</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,redis,mongodb,supabase,prisma" /></td></tr>
-<tr><td><b>Cloud & infra</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,githubactions,linux" /></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian,figma" /></td></tr>
-</table>
-
-<br />
-
-<details>
-<summary><b>📊 Stats</b></summary>
-<br />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavaro&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavaro&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
-</details>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavaro/raghavaro/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/raghavaro/raghavaro/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img alt="Stack. Languages: Python, TypeScript, JavaScript, Bash, HTML, CSS. Frontend: React, Next.js, Tailwind, Vite. Backend and data: Node.js, FastAPI, Flask, Postgres, Redis, MongoDB, Supabase, Prisma. Cloud and infra: AWS, GCP, Cloudflare, Vercel, Docker, Kubernetes, GitHub Actions, Linux. Tools: Git, GitHub, VS Code, Obsidian, Figma." src="assets/stack-light.svg" width="100%" />
 </picture>
