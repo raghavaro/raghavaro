@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2" />
-  <img alt="Raghav Arora. I build AI systems, and the products that run on top of them." src="assets/banner-light.svg?v=2" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3" />
+  <img alt="Raghav Arora. Building agents, LLM pipelines, and AI-native products" src="assets/banner-light.svg?v=3" width="100%" />
 </picture>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 
 #### ◑ About
-A decade of building: I've started companies, been an early engineer helping others scale, and led engineering teams. These days I'm the person teams bring in when the hard part isn't the code, but knowing what to build and making it feel right.
+A decade of building: I've started companies, been an early engineer helping others scale, and led engineering teams. I'm the person teams bring in when the hard part isn't the code, but knowing what to build and making it feel right.
 
 </td>
 </tr>

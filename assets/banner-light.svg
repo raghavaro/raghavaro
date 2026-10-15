@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Raghav Arora. I build AI systems, and the products that run on top of them."><defs><pattern id="d" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1.6" fill="#5c5650"/></pattern>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Raghav Arora. Building agents, LLM pipelines, and AI-native products"><defs><pattern id="d" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1.6" fill="#5c5650"/></pattern>
 <radialGradient id="m" cx="82%" cy="50%" r="55%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
 <mask id="mk"><rect width="1200" height="320" fill="url(#m)"/></mask><clipPath id="r"><rect width="1200" height="320" rx="16"/></clipPath></defs><g clip-path="url(#r)"><rect width="1200" height="320" fill="#faf7f2"/><rect width="1200" height="320" fill="url(#d)" mask="url(#mk)" opacity=".7"/>
 <rect x="72" y="76" width="44" height="4" fill="#e5501a"/>
 <text x="70" y="176" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="-3" fill="#14110f">Raghav Arora</text>
-<text x="72" y="226" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#14110f">I build AI systems, and the products that run on top of them.</text>
+<text x="72" y="226" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#14110f">Building agents, LLM pipelines, and AI-native products</text>
 <text x="72" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="4" fill="#5c5650">ENGINEER · BUILDER · ENTREPRENEUR</text></g></svg>
