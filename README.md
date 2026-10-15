@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img alt="Raghav Arora. I build AI systems, and the products that run on top of them." src="assets/banner-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2" />
+  <img alt="Raghav Arora. I build AI systems, and the products that run on top of them." src="assets/banner-light.svg?v=2" width="100%" />
 </picture>
 
 <p align="center">
