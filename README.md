@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://raghavarora.com"><img src="https://img.shields.io/badge/raghavarora.com-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/raghavaro"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/raghavaro"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
   <a href="https://x.com/raghavaro"><img src="https://img.shields.io/badge/@raghavaro-111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/raghavaro.ai"><img src="https://img.shields.io/badge/raghavaro.ai-111?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -39,7 +39,7 @@ I run **[IXC Commons](https://raghavarora.com/ixc-commons)**, a builder communit
 
 <br />
 
-## Open source
+### Open source
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ From IXC Commons.
 </tr>
 </table>
 
-## Also built
+### Also built
 
 | | |
 |---|---|
@@ -81,7 +81,7 @@ From IXC Commons.
 | **[LearnSomethin](https://learnsomethin.com)** | One new thing in your inbox every morning. |
 | **[GitJack](https://www.gitjack.com)** | See what's moving in a repo. |
 
-## Speaking
+### Speaking
 
 Same subject from different angles: what it takes to stop prompting a model and start running a system.
 
@@ -89,7 +89,7 @@ Same subject from different angles: what it takes to stop prompting a model and 
 - *The Innovator's Address*, Chitkara University
 - *Clay in Chandigarh*, Clay Clubs
 
-## Stack
+### Stack
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,bash,html,css" /></td></tr>

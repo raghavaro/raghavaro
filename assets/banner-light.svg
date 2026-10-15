@@ -1,21 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Raghav Arora. I build AI systems, and the products that run on top of them.">
-  <defs>
-    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#ece6dc" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#faf7f2" stop-opacity="0"/>
-      <stop offset="1" stop-color="#faf7f2" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="320" rx="16" fill="#faf7f2"/>
-  <rect width="1200" height="320" rx="16" fill="url(#g)"/>
-  <rect x="600" width="600" height="320" rx="16" fill="url(#fade)" opacity="0"/>
-  <circle cx="1010" cy="160" r="120" fill="none" stroke="#e5501a" stroke-width="1.5" opacity=".9"/>
-  <circle cx="1010" cy="160" r="78" fill="none" stroke="#14110f" stroke-width="1" opacity=".25"/>
-  <circle cx="1010" cy="160" r="36" fill="#e5501a"/>
-  <circle cx="1130" cy="160" r="5" fill="#14110f"/>
-  <text x="72" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="4" fill="#e5501a">ENGINEER · BUILDER · ENTREPRENEUR</text>
-  <text x="68" y="190" font-family="Georgia,'Times New Roman',serif" font-size="88" font-weight="700" letter-spacing="-2" fill="#14110f">Raghav Arora</text>
-  <text x="72" y="244" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#5c5650">I build AI systems, and the products that run on top of them.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Raghav Arora. I build AI systems, and the products that run on top of them."><defs><filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><clipPath id="r"><rect width="1200" height="320" rx="16"/></clipPath></defs><g clip-path="url(#r)"><rect width="1200" height="320" fill="#faf7f2"/><g filter="url(#bl)" opacity=".6"><circle cx="980" cy="90" r="130" fill="#e5501a"/><circle cx="1100" cy="260" r="120" fill="#a78bfa"/><circle cx="820" cy="280" r="100" fill="#67e8f9"/></g>
+<text x="72" y="104" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="5" fill="#5c5650">ENGINEER · BUILDER · ENTREPRENEUR</text>
+<text x="68" y="192" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-4" fill="#14110f">Raghav Arora</text>
+<text x="72" y="244" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#5c5650">I build AI systems, and the products that run on top of them.</text></g></svg>
